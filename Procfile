@@ -1,1 +1,1 @@
-web: python runserver.py
+web: sudo python runserver.py
